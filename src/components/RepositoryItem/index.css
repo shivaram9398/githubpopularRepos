@@ -1,0 +1,33 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.roww {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.image2 {
+  height: 12px;
+}
+
+.image {
+  height: 45px;
+}
+
+.item {
+  border-radius: 8px;
+  margin: 5px;
+  background-color: gray;
+  padding: 10px;
+}
+
+.name {
+  color: #e73959;
+  font-size: 20px;
+}

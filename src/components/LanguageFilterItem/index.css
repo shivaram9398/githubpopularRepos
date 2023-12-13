@@ -1,0 +1,16 @@
+.btn {
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+
+.class {
+  border: 1px solid blue;
+  color: blue;
+  padding: 4px;
+  border-radius: 5px;
+  text-align: center;
+}
+
